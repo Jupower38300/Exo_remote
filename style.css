@@ -59,18 +59,3 @@ header a {
   justify-content: center;
   align-items: center;
 }
-
-.first_section {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-
-.text {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
